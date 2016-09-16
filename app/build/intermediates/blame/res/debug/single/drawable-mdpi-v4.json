@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sikander/AndroidStudioProjects/DatePickerCustom/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/sikander/AndroidStudioProjects/DatePickerCustom/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sikander/AndroidStudioProjects/datepicker1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/wheel_val.xml",
+        "source": "/Users/sikander/AndroidStudioProjects/datepicker1/app/src/main/res/drawable-mdpi/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/sikander/AndroidStudioProjects/DatePickerCustom/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/wheel_val.xml",
+        "source": "/Users/sikander/AndroidStudioProjects/DatePickerCustom/app/src/main/res/drawable-mdpi/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/sikander/AndroidStudioProjects/datepicker1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/sikander/AndroidStudioProjects/datepicker1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sikander/AndroidStudioProjects/datepicker1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/wheel_bg.xml",
+        "source": "/Users/sikander/AndroidStudioProjects/datepicker1/app/src/main/res/drawable-mdpi/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/sikander/AndroidStudioProjects/DatePickerCustom/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/wheel_bg.xml",
+        "source": "/Users/sikander/AndroidStudioProjects/DatePickerCustom/app/src/main/res/drawable-mdpi/wheel_bg.xml"
+    }
+]

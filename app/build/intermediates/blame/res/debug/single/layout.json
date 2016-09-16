@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sikander/AndroidStudioProjects/datepicker1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sikander/AndroidStudioProjects/datepicker1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sikander/AndroidStudioProjects/DatePickerCustom/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sikander/AndroidStudioProjects/DatePickerCustom/app/src/main/res/layout/activity_main.xml"
+    }
+]
